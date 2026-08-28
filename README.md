@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/cloud-background.webp" alt="Discord Cloud" width="100%">
-</p>
-
 <h1 align="center">Discord Cloud</h1>
 
 <p align="center">
@@ -10,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Storage-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord storage">
   <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi%204%20%7C%20Windows%2011-1B263B?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 4 and Windows 11">
   <img src="https://img.shields.io/badge/License-MIT-0F766E?style=for-the-badge" alt="MIT license">
 </p>
