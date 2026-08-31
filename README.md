@@ -138,6 +138,14 @@ install.sh          Raspberry Pi service installer
 assets/             Local artwork
 ~~~
 
+## Preview
+
+  <p align="center">
+    <img src="Screenshot%202026-08-31%20135230.png" width="32%" alt="Screenshot 1">
+    <img src="Screenshot%202026-08-31%20135245.png" width="32%" alt="Screenshot 2">
+    <img src="Screenshot%202026-08-31%20135254.png" width="32%" alt="Screenshot 3">
+  </p>
+
 <p align="center">
   <sub>Released under the <a href="LICENSE">MIT License</a>.</sub>
 </p>
